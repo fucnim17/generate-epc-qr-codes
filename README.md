@@ -1,6 +1,6 @@
 # EPC QR Code Generator
 
-A minimal script that reads an **Export.xlsx** file and generates EPC-compliant QR codes, including recipient name, IBAN, BIC, amount, and remittance info..
+A minimal script that reads an **Export.xlsx** file and generates EPC-compliant QR codes, including recipient name, IBAN, BIC, amount, and remittance info.
 
 ## Usage
 
