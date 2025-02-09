@@ -7,7 +7,7 @@ A minimal script that reads an **Export.xlsx** file and generates EPC-compliant 
 1. Clone this repository: `https://github.com/fucnim17/update-ghostfolio.git`
 2. Install dependencies: `pip install pandas qrcode[pil] openpyxl`
 3. Update the script if needed (e.g., path to your Excel file).
-4. un the script: `python generate-epc-qr-codes.py`
+4. Run the script: `python generate-epc-qr-codes.py`
 5. Check for generated QR codes (qr_code_<index>.png).
  
 ## License
