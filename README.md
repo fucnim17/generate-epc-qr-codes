@@ -10,6 +10,8 @@ A minimal script that reads an **Export.xlsx** file and generates EPC-compliant 
 4. Update the script if needed (e.g., path to your Excel file).
 5. Run the script: `python generate-epc-qr-codes.py`
 6. Check for generated QR codes (qr_code_<index>.png).
+7. Scan the QR code with your banking app.
+8. Enjoy!
  
 ## License
 
