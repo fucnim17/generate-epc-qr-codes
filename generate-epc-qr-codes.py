@@ -1,3 +1,13 @@
+# -----------------------------------------------------------------------------
+# Copyright (C) 2025 Niklas Fuchshofer
+#
+# This script is licensed under the GNU General Public License Version 3 or
+# any later version.
+# See the LICENSE file for more details.
+# -----------------------------------------------------------------------------
+# Script to create EPC QR codes from an Excel file.
+# -----------------------------------------------------------------------------
+
 import pandas as pd
 import qrcode
 import os
